@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Durosport Favicon -->
+  <!-- Sport Green D outline -->
+  <path d="M4 4h12c6.627 0 12 5.373 12 12s-5.373 12-12 12H4V4z" fill="#00875A"/>
+  <!-- Turf Green court surface -->
+  <path d="M6 6h10c5.523 0 10 4.477 10 10s-4.477 10-10 10H6V6z" fill="#36B37E"/>
+  <!-- Horizontal court line -->
+  <rect x="6" y="14.5" width="15" height="2" rx="0.5" fill="rgba(255,255,255,0.95)"/>
+  <!-- Vertical court line -->
+  <rect x="12" y="6" width="2" height="20" rx="0.5" fill="rgba(255,255,255,0.95)"/>
+  <!-- Center circle -->
+  <circle cx="13" cy="15.5" r="2.5" stroke="rgba(255,255,255,0.85)" stroke-width="1.5" fill="none"/>
+</svg>
